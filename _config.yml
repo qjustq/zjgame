@@ -18,7 +18,7 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://localhost:3000"
+url: "zhijianyx.com"
 
 ####################################
 ######   Optional Features    ######
@@ -47,9 +47,9 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: 至简游戏 - 承载无限想象
 # Website language
-lang: en-US
+lang: cn-ZH
 # Header Title
 header-title: Create the <strong>Impossible</strong>
 # Header Tagline
@@ -62,23 +62,23 @@ headter-tagline: We Always
 # Focus Buttons
 header-focus-button:
   title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
+  url: zhijianyx.com
 
 # Secondary Buttons
 header-secondary-button:
   title: Discover More
-  url: http://themeforest.net/user/gleesik
+  url: zhijianyx.com
 
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: q@zhijianyx.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
+banner-link: zhijianyx.com
 
 ####################################
 ######  Global Social Links   ######
@@ -446,13 +446,13 @@ plan-ultimate-url: '#'
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-description: q@zhijianyx.com
 
 
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-description: 至简游戏
+footer-copyright-text:  
+footer-copyright-url: zhijianyx.com
+footer-copyright-year: 2018
